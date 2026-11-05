@@ -1,0 +1,4 @@
+# Instalar PaddlePaddle CPU por separado, según README.md.
+paddleocr==3.7.0
+Pillow>=10,<13
+

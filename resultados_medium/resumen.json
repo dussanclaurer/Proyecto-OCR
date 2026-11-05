@@ -1,0 +1,11 @@
+[
+  {
+    "imagen": "muestras\\03_nueva.jpg",
+    "modelo": "medium",
+    "idioma": "es",
+    "min_confianza": 0.0,
+    "segundos_inferencia": 36.469,
+    "lineas": 24,
+    "confianza_media": 0.9799
+  }
+]
